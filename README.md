@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Edson Vaz
+# 👋Olá, eu sou o Edson Vaz
 
 ### Engenheiro Informático e de Computadores | Técnico de Suporte IT | Programador | Administração de Sistemas
 
