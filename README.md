@@ -1,4 +1,4 @@
-# 🫆 Bem-vindo(a) ao meu GitHub! 🫆
+# ✅ Bem-vindo(a) ao meu GitHub! ✅
 
 <p align="center">
   <img src="images/perfil.png" width="380" style="border-radius: 100%;">
@@ -21,7 +21,7 @@
 
 - 🎓 Licenciado em **Engenharia Informática e de Computadores** (UNICV), especialização em Programação
 - 💻 **Técnico Informático** com mais de 3 anos de experiência em suporte técnico, manutenção de hardware/software e administração de sistemas
-- 🛡️ Experiência com **sistemas ERP empresariais** (Primavera, WinMax) e suporte a redes
+- 🛡️ Experiência com **sistemas ERP empresariais** (Primavera) e suporte a redes
 - 🤖 Apaixonado por **Inteligência Artificial**, visão computacional e sistemas de reconhecimento facial
 - 🏆 Projeto Final de Curso: *"Sistema Inteligente de Monitorização e Segurança com Reconhecimento Facial Integrado do RS²Lab"* — classificação final de **18 valores**
 - 📍 Baseado em Praia, Santiago, Cabo Verde
