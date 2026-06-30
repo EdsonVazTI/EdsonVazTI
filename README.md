@@ -1,3 +1,9 @@
+# 🫆 Bem-vindo(a) ao meu GitHub! 🫆
+
+<p align="center">
+  <img src="images/perfil.png" width="180" style="border-radius: 50%;">
+</p>
+
 <div align="center">
 
 # 👋 Olá, eu sou o Edson Vaz
