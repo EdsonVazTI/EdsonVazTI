@@ -100,13 +100,21 @@
 
 ## 🚀 Projetos em destaque
 
-### 🔐 [SI-MS RS²Lab](#) — Sistema Inteligente de Monitorização e Segurança
+### 🔐 SI-MS RS²Lab — Sistema Inteligente de Monitorização e Segurança
+
 Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratório de investigação RS²Lab da Universidade de Cabo Verde. Combina IA, IoT e visão computacional para vigilância inteligente.
+
 `Python` `Django REST Framework` `React.js` `JavaScript` `Face-api.js` `Arduino` `ESP32` `MQTT` `Node-RED`
-<img src="images/si-ms1.png" width="300">
-<img src="images/si-ms2.png" width="300">
-<img src="images/si-ms3.png" width="300">
-<img src="images/si-ms4.png" width="300">
+
+<div align="center">
+
+<img src="images/si-ms1.png" width="45%">
+<img src="images/si-ms2.png" width="45%">
+
+<img src="images/si-ms3.png" width="45%">
+<img src="images/si-ms4.png" width="45%">
+
+</div>
 
 ### 🏢 Website ICUB — Sistema de Gestão de Incubadora de Inovação
 Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo Verde.
@@ -117,8 +125,8 @@ Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo 
 ### 📚 SGDB — Sistema de Gestão de Biblioteca
 Aplicação desktop para gestão de biblioteca, com interface gráfica.
 `Java` `Apache NetBeans IDE` `SceneBuilder` `SQL Server`
-<img src="images/sgdb.png" width="600">
-<img src="images/sgdb.png" width="600">
+<img src="images/sgdb1.png" width="600">
+<img src="images/sgdb2.png" width="600">
 
 ### 🧭 GTR — Guia Turismo Responsável
 Aplicação móvel Android para promoção do turismo responsável.
