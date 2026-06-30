@@ -103,10 +103,10 @@
 ### 🔐 [SI-MS RS²Lab](#) — Sistema Inteligente de Monitorização e Segurança
 Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratório de investigação RS²Lab da Universidade de Cabo Verde. Combina IA, IoT e visão computacional para vigilância inteligente.
 `Python` `Django REST Framework` `React.js` `JavaScript` `Face-api.js` `Arduino` `ESP32` `MQTT` `Node-RED`
-<img src="images/si-ms1.png" width="600">
-<img src="images/si-ms2.png" width="600">
-<img src="images/si-ms3.png" width="600">
-<img src="images/si-ms4.png" width="600">
+<img src="images/si-ms1.png" width="300">
+<img src="images/si-ms2.png" width="300">
+<img src="images/si-ms3.png" width="300">
+<img src="images/si-ms4.png" width="300">
 
 ### 🏢 Website ICUB — Sistema de Gestão de Incubadora de Inovação
 Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo Verde.
