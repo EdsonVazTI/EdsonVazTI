@@ -1,5 +1,6 @@
 <div align="center">
 
+# 👋 Olá, eu sou o Edson Vaz
 
 ### Engenheiro Informático e de Computadores | Técnico de Suporte IT | Programador | Administração de Sistemas
 
@@ -77,7 +78,7 @@
 
 ## 💼 Sistemas Empresariais e Suporte Técnico
 
-![Primavera ERP](https://img.shields.io/badge/Primavera%20ERP-005CA9?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2C&logoColor=white)
+<img src="https://raw.githubusercontent.com/EdsonVazTI/EdsonVazTI/main/images/primavera-logo.png" alt="PRIMAVERA ERP" height="40">
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Redes%20Inform%C3%A1ticas-2C3E50?style=for-the-badge&logo=cisco&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
