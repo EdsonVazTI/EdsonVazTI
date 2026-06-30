@@ -78,8 +78,10 @@
 
 ## 💼 Sistemas Empresariais e Suporte Técnico
 
-![<img src="https://raw.githubusercontent.com/EdsonVazTI/EdsonVazTI/main/images/primavera-logo.png" alt="PRIMAVERA ERP" height="40">]
+<img src="https://raw.githubusercontent.com/EdsonVazTI/EdsonVazTI/main/images/primavera-logo.png" alt="PRIMAVERA ERP" height="40">
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Redes%20Inform%C3%A1ticas-2C3E50?style=for-the-badge&logo=cisco&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
