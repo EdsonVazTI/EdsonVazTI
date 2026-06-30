@@ -103,27 +103,42 @@
 ### 🔐 [SI-MS RS²Lab](#) — Sistema Inteligente de Monitorização e Segurança
 Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratório de investigação RS²Lab da Universidade de Cabo Verde. Combina IA, IoT e visão computacional para vigilância inteligente.
 `Python` `Django REST Framework` `React.js` `JavaScript` `Face-api.js` `Arduino` `ESP32` `MQTT` `Node-RED`
+<img src="images/si-ms1.png" width="600">
+<img src="images/si-ms2.png" width="600">
+<img src="images/si-ms3.png" width="600">
+<img src="images/si-ms4.png" width="600">
 
 ### 🏢 Website ICUB — Sistema de Gestão de Incubadora de Inovação
 Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo Verde.
 `PHP` `HTML` `MySQL`
+<img src="images/icub1.png" width="600">
+<img src="images/icub2.png" width="600">
 
 ### 📚 SGDB — Sistema de Gestão de Biblioteca
 Aplicação desktop para gestão de biblioteca, com interface gráfica.
 `Java` `Apache NetBeans IDE` `SceneBuilder` `SQL Server`
+<img src="images/sgdb.png" width="600">
+<img src="images/sgdb.png" width="600">
 
 ### 🧭 GTR — Guia Turismo Responsável
 Aplicação móvel Android para promoção do turismo responsável.
 `Kotlin` `Java` `Android Studio`
+<img src="images/gtr.png" width="600">
+
 
 ### 🎮 Attack on Titan — Jogo 2D de Ação e Sobrevivência
 Jogo 2D desenvolvido como projeto pessoal de desenvolvimento de jogos.
 `C#` `Unity`
+<img src="images/aot1.png" width="600">
+<img src="images/aot2.png" width="600">
 
 ### 🐍 NLW Operator – Python (Rocketseat)
 Formação prática em Python aplicado a IA e visão computacional, com inferência em tempo real.
 `Python` `OpenCV` `MediaPipe` `PyTorch` `Scikit-Learn` `YOLO` `Gemini API`
 
+**📜 Certificado:**
+
+<img src="images/certificado-nlw.png" width="600">
 ---
 
 ## 📊 Estatísticas do GitHub
