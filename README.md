@@ -1,7 +1,7 @@
 # 🫆 Bem-vindo(a) ao meu GitHub! 🫆
 
 <p align="center">
-  <img src="images/perfil.png" width="180" style="border-radius: 50%;">
+  <img src="images/perfil.png" width="180" style="border-radius: 100%;">
 </p>
 
 <div align="center">
