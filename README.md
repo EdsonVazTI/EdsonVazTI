@@ -86,12 +86,12 @@
 
 ## 💼 Sistemas Empresariais e Suporte Técnico
 
-<img src="https://raw.githubusercontent.com/EdsonVazTI/EdsonVazTI/main/images/primavera-logo.png" alt="PRIMAVERA ERP" height="40">
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Redes%20Inform%C3%A1ticas-2C3E50?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/EdsonVazTI/EdsonVazTI/main/images/primavera-logo.png" alt="PRIMAVERA ERP" height="40">
 
 ## 🎨 Design e Colaboração
 
@@ -99,9 +99,9 @@
 
 ## 🌍 Idiomas
 
-![Crioulo](https://img.shields.io/badge/Crioulo-LÍNGUA%20MATERNA-2E8B57?style=for-the-badge)
-![Português](https://img.shields.io/badge/Português-LÍNGUA%20OFICIAL-2E8B57?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-B1-DAA520?style=for-the-badge)
+![Crioulo](https://img.shields.io/badge/Crioulo-Nativo-2E8B57?style=for-the-badge)
+![Português](https://img.shields.io/badge/Português-Fluente-2E8B57?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-A2-DAA520?style=for-the-badge)
 ![Francês](https://img.shields.io/badge/Francês-A2-CD5C5C?style=for-the-badge)
 
 ---
