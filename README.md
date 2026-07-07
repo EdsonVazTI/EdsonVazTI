@@ -20,7 +20,7 @@
 ## 👨🏽‍💻 Sobre mim
 
 - 🎓 Licenciado em **Engenharia Informática e de Computadores** (UNICV), especialização em Programação
-- 💻 **Técnico Informático** com mais de 3 anos de experiência em suporte técnico, manutenção de hardware/software e administração de sistemas
+- 💻 **Técnico Informático (Freelancer)** com 2 anos e 11 meses de experiência em suporte técnico, assistência remota, manutenção de hardware/software e administração de sistemas
 - 🛡️ Experiência com **sistemas ERP empresariais** (Primavera) e suporte a redes
 - 🤖 Apaixonado por **Inteligência Artificial**, visão computacional e sistemas de reconhecimento facial
 - 🏆 Projeto Final de Curso: *"Sistema Inteligente de Monitorização e Segurança com Reconhecimento Facial Integrado do RS²Lab"* — classificação final de **18 valores**
@@ -75,12 +75,14 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4B0082?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-3D6B99?style=for-the-badge&logo=wampserver&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ## 💼 Sistemas Empresariais e Suporte Técnico
 
@@ -110,7 +112,7 @@
 
 Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratório de investigação RS²Lab da Universidade de Cabo Verde. Combina IA, IoT e visão computacional para vigilância inteligente.
 
-`Python` `Django REST Framework` `React.js` `JavaScript` `Face-api.js` `Arduino` `ESP32` `MQTT` `Node-RED`
+`Python` `Django REST Framework` `React.js` `JavaScript` `Face-api.js` `Arduino` `ESP32` `MQTT` `Node-RED` `MySQL`
 
 <div align="center">
 
@@ -128,17 +130,16 @@ Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo 
 <img src="images/icub1.png" width="600">
 <img src="images/icub2.png" width="600">
 
+### 🧭 GTR — Guia Turismo Responsável
+Aplicação móvel Android para promoção do turismo responsável.
+`Kotlin` `Java` `Android Studio` `SQLite`
+<img src="images/gtr.png" width="600">
+
 ### 📚 SGDB — Sistema de Gestão de Biblioteca
 Aplicação desktop para gestão de biblioteca, com interface gráfica.
 `Java` `Apache NetBeans IDE` `SceneBuilder` `SQL Server`
 <img src="images/sgdb1.png" width="600">
 <img src="images/sgdb2.png" width="600">
-
-### 🧭 GTR — Guia Turismo Responsável
-Aplicação móvel Android para promoção do turismo responsável.
-`Kotlin` `Java` `Android Studio`
-<img src="images/gtr.png" width="600">
-
 
 ### 🎮 Attack on Titan — Jogo 2D de Ação e Sobrevivência
 Jogo 2D desenvolvido como projeto pessoal de desenvolvimento de jogos.
@@ -153,6 +154,7 @@ Formação prática em Python aplicado a IA e visão computacional, com inferên
 **📜 Certificado:**
 
 <img src="images/certificado-nlw.png" width="600">
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -170,7 +172,7 @@ Formação prática em Python aplicado a IA e visão computacional, com inferên
 ## 📲 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-vaz-87a836412)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.edsonvaz@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=eng.edsonvaz@gmail.com)
 
 <div align="center">
 <i>"Qualquer tecnologia suficientemente avançada é indistinguível de magia." — Arthur C. Clarke</i>
