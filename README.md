@@ -128,6 +128,12 @@ Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratóri
 <img src="images/simsrs2lab10.png" width="45%">
 <img src="images/simsrs2lab11.png" width="45%">
 <img src="images/simsrs2lab12.png" width="45%">
+<img src="images/simsrs2lab13.png" width="45%">
+<img src="images/simsrs2lab14.png" width="45%">
+
+
+
+
 
 
 </div>
