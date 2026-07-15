@@ -116,11 +116,19 @@ Sistema com **reconhecimento facial integrado**, desenvolvido para o laboratóri
 
 <div align="center">
 
-<img src="images/si-ms1.png" width="45%">
-<img src="images/si-ms2.png" width="45%">
+<img src="images/simsrs2lab1.png" width="45%">
+<img src="images/simsrs2lab2.png" width="45%">
+<img src="images/simsrs2lab3.png" width="45%">
+<img src="images/simsrs2lab4.png" width="45%">
+<img src="images/simsrs2lab5.png" width="45%">
+<img src="images/simsrs2lab6.png" width="45%">
+<img src="images/simsrs2lab7.png" width="45%">
+<img src="images/simsrs2lab8.png" width="45%">
+<img src="images/simsrs2lab9.png" width="45%">
+<img src="images/simsrs2lab10.png" width="45%">
+<img src="images/simsrs2lab11.png" width="45%">
+<img src="images/simsrs2lab12.png" width="45%">
 
-<img src="images/si-ms3.png" width="45%">
-<img src="images/si-ms4.png" width="45%">
 
 </div>
 
@@ -129,6 +137,11 @@ Plataforma web para gestão da Incubadora de Inovação da Universidade de Cabo 
 `PHP` `HTML` `MySQL`
 <img src="images/icub1.png" width="600">
 <img src="images/icub2.png" width="600">
+<img src="images/icub3.png" width="600">
+<img src="images/icub4.png" width="600">
+<img src="images/icub5.png" width="600">
+<img src="images/icub6.png" width="600">
+<img src="images/icub7.png" width="600">
 
 ### 🧭 GTR — Guia Turismo Responsável
 Aplicação móvel Android para promoção do turismo responsável.
